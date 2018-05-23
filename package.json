@@ -1,0 +1,15 @@
+{
+  "name": "directory-filter-zip-by-time-tool",
+  "version": "1.0.0",
+  "description": "筛选一定时间内的文件夹，然后压缩",
+  "main": "zip.js",
+  "dependencies": {
+    "yazl": "^2.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
